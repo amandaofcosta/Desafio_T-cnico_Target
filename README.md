@@ -40,4 +40,4 @@ Inverte uma string informada pelo usuário sem utilizar funções prontas como `
 
 1. **Clone o repositório** para sua máquina:
    ```bash
-   git clone https://github.com/amandaofcosta/Desafio_T-cnico_Target.git
+   git clone https://github.com/seu-usuario/Desafio_Tecnico_Target.git
